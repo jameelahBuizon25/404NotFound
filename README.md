@@ -38,8 +38,7 @@
 
 ![screenshot](https://github.com/jameelahBuizon25/ResponsiveWeb/blob/main/Capture.JPG?raw=true)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
+The responsive design is set to 375px.
 - I only use HTML, CSS & FIGMA
 
 ### Built With
